@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Amrul Hasan
 
-<!--
-**amrulhasa/amrulhasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Computer Science student with an interest in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and Computer Vision.
+Currently learning ASP.NET Core and building practical software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Skills
+
+* C#
+* Python
+* ASP.NET Core
+* Machine Learning
+* Git and GitHub
+
+## Current Projects
+
+* BDTechMarket – ASP.NET Core MVC Web Application
+* Bangla-English NLP Dataset – Dataset for language processing research
+
+## Currently Learning
+
+* Deep Learning
+* Natural Language Processing (NLP)
+* Computer Vision
+
+## GitHub Profile
+
+https://github.com/amrulhasa
