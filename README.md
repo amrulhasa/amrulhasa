@@ -1,11 +1,11 @@
-# Hi, I'm Amrul Hasan
+#  Md.Amrul Hasan Sakib
 
 ## About Me
 
 Computer Science student with an interest in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and Computer Vision.
-Currently learning ASP.NET Core and building practical software projects.
+Currently learning ASP.NET Core and developing practical software projects.
 
-#Skills
+## Skills
 
 * C#
 * Python
@@ -13,17 +13,32 @@ Currently learning ASP.NET Core and building practical software projects.
 * Machine Learning
 * Git and GitHub
 
-## Current Projects
+## Research Interests
 
-* BDTechMarket – ASP.NET Core MVC Web Application
-* Bangla-English NLP Dataset – Dataset for language processing research
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* Data Science
+
+## Projects
+
+| Project                    | Description                              | Technology       |
+| -------------------------- | ---------------------------------------- | ---------------- |
+| BDTechMarket               | Tech marketplace web application         | ASP.NET Core MVC |
+| Bangla-English NLP Dataset | Dataset for language processing research | Python, NLP      |
 
 ## Currently Learning
 
 * Deep Learning
 * Natural Language Processing (NLP)
 * Computer Vision
+* Advanced Machine Learning
 
-## GitHub Profile
+## Education
 
-https://github.com/amrulhasa
+Bachelor of Science in Computer Science
+
+## Contact
+
+GitHub: https://github.com/amrulhasa
