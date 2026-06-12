@@ -35,6 +35,16 @@ Currently learning ASP.NET Core and developing practical software projects.
 * Computer Vision
 * Advanced Machine Learning
 
+##  Research Publications
+
+### Integrating MRI and Clinical Features for Detection of Clinically Significant Prostate Cancer: A Multimodal AI Framework
+
+- **Conference:IEEE PECCII 2026
+- **Paper ID: PECCII2026-229
+- **Authors: Sifat Mohammad Karim, Ariful Islam, Md. Samiul Alam, Wafial Hasnat Laisa, **Amrul Hasan Sakib**, Md. Abdul Awal, Ishtiak Al Mamoon
+- **Status:  Accepted & Published
+- **Link: *Coming soon — IEEE Xplore*
+
 ## Education
 
 Bachelor of Science in Computer Science
