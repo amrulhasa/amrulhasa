@@ -23,9 +23,6 @@ I enjoy building scalable backend systems, modern web applications, and AI-power
 <a href="https://github.com/amrulhasa?tab=followers">
 <img src="https://img.shields.io/github/followers/amrulhasa?logo=github&style=for-the-badge"/>
 </a>
-<a href="https://github.com/amrulhasa">
-<img src="https://img.shields.io/github/stars/amrulhasa?affiliations=OWNER&style=for-the-badge"/>
-</a>
 </p>
 
 ---
@@ -117,8 +114,8 @@ Networking laboratory covering Routing, DHCP, DNS, OSPF, RIP and Switching.
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrulhasa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrulhasa&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrulhasa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrulhasa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" alt="Top Languages"/>
 </p>
 
 ---
@@ -126,7 +123,7 @@ Networking laboratory covering Routing, DHCP, DNS, OSPF, RIP and Switching.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=amrulhasa&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=amrulhasa&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -134,7 +131,7 @@ Networking laboratory covering Routing, DHCP, DNS, OSPF, RIP and Switching.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrulhasa&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrulhasa&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=00D4FF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -142,7 +139,7 @@ Networking laboratory covering Routing, DHCP, DNS, OSPF, RIP and Switching.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amrulhasa&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amrulhasa&theme=tokyonight&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
