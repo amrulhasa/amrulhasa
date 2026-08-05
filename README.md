@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner%20(1).png" width="100%" alt="Md. Amrul Hasan Sakib - GitHub Banner"/>
+  <img src="banner).png" width="100%" alt="Md. Amrul Hasan Sakib - GitHub Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Md. Amrul Hasan Sakib</h1>
@@ -30,6 +30,21 @@ Currently I am deepening my knowledge in:
 - Compiler Design
 
 I believe consistent learning and building real projects are the best ways to grow as an engineer.
+
+---
+
+### Interests
+
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Web Development
+- Problem Solving
+- Open Source
+- Research
+- Networking & Cybersecurity
 
 ---
 
