@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Md. Amrul Hasan Sakib - GitHub Banner"/>
+  <img src="banner%20(1).png" width="100%" alt="Md. Amrul Hasan Sakib - GitHub Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Md. Amrul Hasan Sakib</h1>
@@ -110,6 +110,6 @@ Building professional web applications using ASP.NET Core MVC with clean archite
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-blue?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-blue?style=flat-square"/> 
   <img src="https://img.shields.io/badge/From-Bangladesh-green?style=flat-square"/>
 </p>
