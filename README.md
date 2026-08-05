@@ -44,7 +44,6 @@ I believe consistent learning and building real projects are the best ways to gr
 - Problem Solving
 - Open Source
 - Research
-- Networking & Cybersecurity
 
 ---
 
